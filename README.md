@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Truptee</h1>
-<h3 align="center">A passionate fullStack developer| NITS'24</h3>
+<h3 align="center">A passionate Data Engineer| NITS'24| Bounteous X Accolite</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trup03&label=Profile%20views&color=0e75b6&style=flat" alt="trup03" /> </p>
 
